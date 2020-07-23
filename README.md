@@ -1,4 +1,4 @@
-# CIVE497/CIVE700: Smart Structure Technology (Winter, 2018)
+# CIVE497/CIVE700: Smart Structure Technology (Winter, 2019)
 
 **Instructor:** Chul Min Yeum (E2-2313)  
 **Class:** Tuesday and Thursday, 8:30 to 10:00 AM at E2-3356     
